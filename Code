@@ -104,31 +104,7 @@ int main()
 
     sprintf(a,"path and shortest distance between rat and his destination.");
     outtextxy(22,200,a);
-
-    setcolor(GREEN);
-    sprintf(a,"Submitted BY:");
-    outtextxy(40,450,a);
-
-    sprintf(a,"Khush G Mehta");
-
-    setcolor(5);
-    outtextxy(50,480,a);
-
-    sprintf(a,"(15103146)");
-
-    setcolor(5);
-    outtextxy(50,510,a);
-
-    sprintf(a,"Parimal Mishra");
-
-    setcolor(5);
-    outtextxy(50,540,a);
-
-
-    sprintf(a,"(15103147)");
-    setcolor(5);
-    outtextxy(50,570,a);
-
+    
     sprintf(a,"Rishabh Jain");
     setcolor(5);
     outtextxy(50,600,a);
@@ -137,18 +113,7 @@ int main()
     setcolor(5);
     outtextxy(50,630,a);
 
-    sprintf(a,"Shikhar Tandon");
-    setcolor(5);
-    outtextxy(50,660,a);
-
-    sprintf(a,"(15103158)");
-    setcolor(5);
-    outtextxy(50,690,a);
-
-    sprintf(a,"Batch-B2");
-    setcolor(7);
-    outtextxy(50,750,a);
-
+    
     setcolor(5);
     sprintf(a,"Submitted To:");
 
